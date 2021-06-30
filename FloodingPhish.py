@@ -21,8 +21,8 @@ print(my_banner)
 user_url = input("Enter your URL : ")
 range1, range2 = input(
     "Enter your range for flooding with comma seperated : ").split(",")
-email_name = input("Enter email holder name : ")
-pass_name = input("Enter password holder name : ")
+email_name = input("Enter email name attribute : ")
+pass_name = input("Enter password name attribute : ")
 session = requests.session()
 try:
     while True:
