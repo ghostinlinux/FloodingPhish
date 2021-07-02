@@ -5,6 +5,8 @@ Flood/Down the phishing website
 
     git clone https://github.com/ghostinlinux/FloodingPhish.git
 
+    pip install requests
+
     cd FloodingPhish
 
     python FloodingPhish.py
@@ -13,6 +15,8 @@ Flood/Down the phishing website
 ## Linux/mac
 
     git clone https://github.com/ghostinlinux/FloodingPhish.git
+
+    pip3 install requests
 
     cd FloodingPhish
 
